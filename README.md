@@ -39,7 +39,9 @@
 
 可使用test_flask.py来测试服务
 
-## Coursera Subtitle Translation
+### Extension
+
+本部分主题代码来自<https://github.com/tamshadow/coursera-subtitle-translation>
 
 开启 Coursera 课程视频的中英文双语字幕
 
@@ -48,7 +50,7 @@
 
 ### 安装
 
-下载项目，Chrome 打开扩展程序，加载已解压的扩展程序（需要打开开发者模式）
+下载项目，Chrome 打开扩展程序，加载已解压的扩展程序（需要打开开发者模式，选中extension文件夹即可）
 
 ### 使用
 
